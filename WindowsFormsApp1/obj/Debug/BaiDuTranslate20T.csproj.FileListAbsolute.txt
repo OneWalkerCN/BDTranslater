@@ -1,0 +1,17 @@
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YamlDotNet.dll
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\YamlDotNet.xml
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BaiDuTranslate20T.csprojAssemblyReference.cache
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BaiDuTranslate20T.csproj.GenerateResource.cache
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BaiDuTranslate20T.csproj.CoreCompileInputs.cache
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BaiDuTranslate20T.csproj.CopyComplete
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\61946\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
